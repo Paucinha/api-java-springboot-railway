@@ -7,11 +7,15 @@ Vamos mergulhar diretamente no universo do desenvolvimento e construir uma API R
 
 
 
-## link Figma   https://www.figma.com/design/PTY4FETHUt0twyCyReemBL/Bradesco-bootcamp?node-id=0-1&t=sezpCYgovS44iV4g-1
+## [**Link Figma**](https://www.figma.com/design/PTY4FETHUt0twyCyReemBL/Bradesco-bootcamp?node-id=0-1&t=sezpCYgovS44iV4g-1)
+
+O Figma foi utilizado para a abstração do domínio desta API, sendo útil na análise e projeto da solução.
 
 
 
-## Diagrama de Classe
+
+
+## Diagrama de Classe (Domínio da API)
 
 ```mermaid
 classDiagram
