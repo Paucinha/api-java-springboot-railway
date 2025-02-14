@@ -1,0 +1,1 @@
+web: java -jar build/libs/bradesco-Java-Cloud-Native-0.0.1-SNAPSHOT.jar
